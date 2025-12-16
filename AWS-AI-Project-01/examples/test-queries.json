@@ -1,0 +1,34 @@
+[
+    {
+        "query": "How do I reset my password?",
+        "description": "Test password reset query"
+    },
+    {
+        "query": "My EC2 instance won't start. What should I do?",
+        "description": "Test AWS troubleshooting query"
+    },
+    {
+        "query": "I'm a new employee. How do I get access to AWS?",
+        "description": "Test onboarding query"
+    },
+    {
+        "query": "I'm getting an Access Denied error when trying to access S3. How can I fix this?",
+        "description": "Test AWS S3 troubleshooting"
+    },
+    {
+        "query": "What are the password requirements for my Active Directory account?",
+        "description": "Test password policy query"
+    },
+    {
+        "query": "How do I set up VPN access?",
+        "description": "Test VPN setup query"
+    },
+    {
+        "query": "My Lambda function is timing out. What could be the issue?",
+        "description": "Test Lambda troubleshooting"
+    },
+    {
+        "query": "What tools do I need to install on my first day?",
+        "description": "Test first day onboarding"
+    }
+]
